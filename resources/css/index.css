@@ -16,7 +16,7 @@ header,
 
 nav {
   font-size: 18px;
-  color: white;
+  color: orange;
 }
 
 h1 {
@@ -38,17 +38,17 @@ ul {
   list-style: none;
 }
 
-.endbar {
+.end-bar {
   background-color: dimgray;
   font-size: 11px;
   text-align: left;
-  color: white;
+  color: teal;
 }
 
 a {
-  color: white;
+  color: inherit;
 }
 
 footer.nav {
-  text-align: center;
+  color: teal;
 }
