@@ -16,7 +16,7 @@ header,
 
 nav {
   font-size: 18px;
-  color: orange;
+  color: white;
 }
 
 h1 {
@@ -42,13 +42,13 @@ ul {
   background-color: dimgray;
   font-size: 11px;
   text-align: left;
-  color: teal;
+  color: white;
 }
 
 a {
   color: inherit;
 }
 
-footer.nav {
-  color: teal;
+footer li, footer nav, footer ul {
+  display: inline;
 }
